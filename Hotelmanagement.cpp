@@ -282,7 +282,7 @@ void main()
 	
 	cout<<"\n\n\n\n\t\tMade By:";
 	sleep(2);
-	cout<<" The Crazy Programmer";
+	cout<<" ganesh kavhar ";
 	sleep(2);
 	cout<<"\n\n\n\n\n\t\t\t\tPress any key to continue!!";
 	getch();
